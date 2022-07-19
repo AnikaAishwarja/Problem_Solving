@@ -20,4 +20,16 @@ elif a % n == 0 and a % m != 0:
 else:
     print(1)
 
+    # if (n % a == 0):
+    #     len = n // a
+    # else:
+    #     len = (n // a) + 1
+    #
+    # if (m % a == 0):
+    #     bre = m // a
+    # else:
+    #     bre = (m // a) + 1
+    #
+    # print(len * bre)
+
 
